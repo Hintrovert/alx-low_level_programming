@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * main - write a program that prints "with proper grammar, but the outcome is a piece of art,"
- * return 0 if the program works and others if any error
+ * main - Entry point
+ * return: Always 0 (success)
  */
 
 int main(void)
