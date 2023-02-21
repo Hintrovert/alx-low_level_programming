@@ -3,8 +3,8 @@
 /**
  * main - Write a function that prints 10 times the alphabet in lowercase.
  *
- *
  */
+
 void print_alphabet(void)
 {
 	char letter;
